@@ -1,0 +1,2 @@
+# SMART-ROAD-MANAGEMENT-SYSTEM
+Development of a Small and Cost Effective Smart System for the Real Time Detection of Potholes. Being installed on Dashboard, it can distinguish the jerks on road and send its location in real time to the Authorised Organisation Server where it can analyse the useful information for various purposes. By this process it can save time, manpower and huge money spent on periodic road inspections.
